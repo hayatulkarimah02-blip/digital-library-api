@@ -82,3 +82,9 @@ Authorization: Bearer <token_from_login>
 ## Screenshot
 
 ![API Documentation Screenshots](./assets/api-docs1.png)
+![API Documentation Screenshots](./assets/api-docs2.png)
+![API Documentation Screenshots](./assets/api-docs3.png)
+![API Documentation Screenshots](./assets/api-docs4.png)
+
+## Author
+Aah Hayatul Karimah
