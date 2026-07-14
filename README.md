@@ -3,7 +3,7 @@
 A robust, production-ready backend API service for a bookstore system built with **FastAPI** and protected by **JWT Authentication**. This project is built as a pure backend service, providing automated, interactive API documentation for frontend consumption or manual testing.
 
 ```
-lembar-backend/             → FastAPI (modular)
+backend/             → FastAPI (modular)
 ├── main.py                 ← entry point, registers all routers
 ├── database.py             ← in-memory "database" (BOOKS, USERS, ORDERS, TOKENS)
 ├── requirements.txt
